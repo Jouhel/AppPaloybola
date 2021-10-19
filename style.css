@@ -1,0 +1,39 @@
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 35px;
+}
+.center-block{
+    display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#wrapper {
+    
+    height: 400px;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  button {
+    height: 50px;
+    width: 125px;
+  }  
+  
+video{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+  }
+
+h2{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 15px; 
+    text-align: center;
+    column-rule: 10;
+}
+  
